@@ -11,10 +11,6 @@ The repository contains a simple node.js app which generates a web page with the
 
 #### Docker
 
-```bash
-docker build --tag nodejs-app .
-```
+`docker build --tag nodejs-app .`
 
-```bash
-docker run -d --rm -p 3000:3000 nodejs-app
-```
+`docker run -d --rm -p 3000:3000 nodejs-app`
