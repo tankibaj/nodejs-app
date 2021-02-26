@@ -1,5 +1,5 @@
 ## Nodejs app
-The repository contains a simple node.js app which generates a web page with the nodejs official logo. I use this app to test CI/CD pipeline.
+The repository contains a simple node.js app which generates a web page with the nodejs official logo.
 
 
 #### NPM
